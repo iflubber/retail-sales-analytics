@@ -276,8 +276,7 @@ cleansing done in Pig.
 
 -- Revenue Aggregate By Country for top 5 countries
 
-![](./screenshots/media/image1.tiff){width="6.263888888888889in"
-height="2.6020833333333333in"}
+![](./screenshots/media/image1.tiff)
 
 -   Clearly United Kingdom is leading in terms of revenue generation
 
@@ -285,8 +284,7 @@ height="2.6020833333333333in"}
 MinAmtperCustomer, MaxAmtperCustomer, AvgAmtperCustomer,
 StdDevAmtperCustomeretc. .. by country for top 5 countries
 
-![](./screenshots/media/image2.tiff){width="6.263888888888889in"
-height="2.813888888888889in"}
+![](./screenshots/media/image2.tiff)
 
 -   Again United Kingdom is leading with the largest customer base and
     the largest number of transactions
@@ -294,15 +292,13 @@ height="2.813888888888889in"}
 -- Daily Sales Activity like NumVisits, TotalAmtetc… per POSIX day of
 the year
 
-![](./screenshots/media/image3.tiff){width="6.263888888888889in"
-height="2.56875in"}
+![](./screenshots/media/image3.tiff)
 
 -   336th day of 2010 had the maximum sales activity with 142 visits
 
 -- Hourly sales Activity like NumVisits, TotalAmtetc… per hour of day
 
-![](./screenshots/media/image4.tiff){width="6.263888888888889in"
-height="2.5083333333333333in"}
+![](./screenshots/media/image4.tiff)
 
 -   Peak sales activity is between 12pm to 1pm with 3220 visits
 
@@ -311,15 +307,13 @@ transaction) ( in this questions, we would like to know that, number of
 transactions by each basket size i.e. number of transactions with 3
 size, number of transactions with 4 size etc.
 
-![](./screenshots/media/image5.tiff){width="6.263888888888889in"
-height="2.4319444444444445in"}
+![](./screenshots/media/image5.tiff)
 
 -   Most customers (3723) mostly bought a single item
 
 -- Top 20 Items sold by frequency
 
-![](./screenshots/media/image6.tiff){width="6.263888888888889in"
-height="2.420138888888889in"}
+![](./screenshots/media/image6.tiff)
 
 -   ‘White Hanging Heart T-Light Holder’ is the most popular item
     followed by ‘Jumbo Bag Red Retrospot’, ‘Regency Cakestand 3 Tier’
@@ -330,8 +324,7 @@ Life time Value = total spend by customer in his/her tenure with the
 company) (In this question, we would like to calculate how many
 customers with CLV between 1-1000, 1000-2000 etc.)
 
-![](./screenshots/media/image7.tiff){width="6.263888888888889in"
-height="2.513888888888889in"}
+![](./screenshots/media/image7.tiff)
 
 -   Most customers (2670) are with CLV between 1-1000
 
